@@ -36,7 +36,18 @@ Este projeto tem como objetivo realizar estudos e testes automatizados em aplica
 ```bash
 npm install -g appium
 ```
+### 3️⃣ Iniciar o Appium
 
+```bash
+appium
+```
+Assim vai acessar a porta padrão 4723
+
+
+### 4️⃣ Rodar os testes
+```bash
+npm run wdio
+```
 ---
 
 # 📑 Casos de Teste — Login Appium
