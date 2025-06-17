@@ -52,7 +52,7 @@ export const config = {
         "appium:deviceName": "Pixel 5 API 30 (R)", // Certifique-se que este emulador está rodando ou use o UDID do seu dispositivo real
         // "appium:udid": "emulator-5554", // Exemplo se estiver usando uma instância específica do emulador
         // Caminho do APK ajustado para um caminho absoluto no Windows (VERIFIQUE ESTE CAMINHO!)
-        "appium:app": "C:/Users/Mastersys/Documents/GitHub/Appium/appium-android-automation/app/Android-MyDemoAppRN.1.3.0.build-244.apk",
+        "appium:app": "/app/Android-MyDemoAppRN.1.3.0.build-244.apk",
         // Ou, se a pasta 'app' estiver na raiz do projeto, poderia ser relativo:
         // "appium:app": "./app/Android-MyDemoAppRN.1.3.0.build-244.apk",
         // Ou usando path.join (requer 'const path = require('node:path');' no topo):
